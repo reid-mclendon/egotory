@@ -1,0 +1,13 @@
+.MuiTextarea-root-120{
+  width: 100%;
+}
+
+.MuiInput-inputMultiline-118 {
+  overflow-y: hidden;
+}
+
+.Page{
+  margin-top: 64px;
+  margin-left: 32px;
+  margin-right: 32px;
+}
